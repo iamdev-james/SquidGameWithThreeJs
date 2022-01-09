@@ -1,0 +1,11 @@
+Model Information:
+* title:	SQUID GAME BLUE SKIN
+* source:	https://sketchfab.com/3d-models/squid-game-blue-skin-b008e58cb664468c8366af9b42e95eac
+* author:	xRUN (https://sketchfab.com/XRUNFF)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "SQUID GAME BLUE SKIN" (https://sketchfab.com/3d-models/squid-game-blue-skin-b008e58cb664468c8366af9b42e95eac) by xRUN (https://sketchfab.com/XRUNFF) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
