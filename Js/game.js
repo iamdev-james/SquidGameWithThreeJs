@@ -10,11 +10,6 @@ renderer.setClearColor(0xc0c0c0, 1)
 const light = new THREE.AmbientLight( 0xffffff );
 scene.add( light );
 
-// Loading background texture
-const bg_loader = new THREE.TextureLoader();
-bg_loader.load("https://picsum.photos/200", (texture)=> {
-    scene.background = texture;
-});
 // Global variables
 let start_position = 3;
 let end_position = -3;
